@@ -1,4 +1,4 @@
-# can_geomap
+# can-geomap
 
 A small Python utility that plots geographic points on a map of Canada, color-coded by category and labeled by ID. Used to visualize competitors' location and activity. Reads coordinates from an Excel file, draws them over a Natural Earth basemap reprojected to the Canada Atlas Lambert projection, and exports a high-resolution PNG.
 
