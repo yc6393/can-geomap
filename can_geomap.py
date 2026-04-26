@@ -5,7 +5,7 @@ import os
 
 # ========= CONFIG =========
 EXCEL_FILE = "locations.xlsx"
-SHAPEFILE = "ne_50m_admin_0_countries/ne_50m_admin_0_countries.shp"
+SHAPEFILE = "ne_50m_admin_0_countries.shp"
 
 LAT_COL = "latitude"
 LON_COL = "longitude"
